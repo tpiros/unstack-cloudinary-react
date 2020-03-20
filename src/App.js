@@ -10,7 +10,7 @@ function App() {
     <>
       <h1>React & Cloudinary</h1>
       {/* <ImageDemo /> */}
-      <ImageTransformDemo />
+      {/* <ImageTransformDemo /> */}
       {/* <VideoDemo /> */}
       {/* <ColourSelectDemo /> */}
     </>
