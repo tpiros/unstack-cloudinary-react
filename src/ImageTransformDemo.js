@@ -35,6 +35,13 @@ function ImageTransform() {
           gravity="south"
           y="35"
         />
+        <Transformation
+          effect="shadow:10"
+          color="black"
+          gravity="south"
+          y="35"
+          flags="layer_apply"
+        />
       </Image>
     </>
   );
